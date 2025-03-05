@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/naver-landingpage/static/css/main.9bcfcf14.css",
-    "main.js": "/naver-landingpage/static/js/main.29c32895.js",
+    "main.css": "/naver-landingpage/static/css/main.b8486272.css",
+    "main.js": "/naver-landingpage/static/js/main.f27c098a.js",
     "static/js/453.57bea169.chunk.js": "/naver-landingpage/static/js/453.57bea169.chunk.js",
     "static/media/sp_main.png": "/naver-landingpage/static/media/sp_main.eae24523ea5e2616fa0e.png",
     "index.html": "/naver-landingpage/index.html",
-    "main.9bcfcf14.css.map": "/naver-landingpage/static/css/main.9bcfcf14.css.map",
-    "main.29c32895.js.map": "/naver-landingpage/static/js/main.29c32895.js.map",
+    "main.b8486272.css.map": "/naver-landingpage/static/css/main.b8486272.css.map",
+    "main.f27c098a.js.map": "/naver-landingpage/static/js/main.f27c098a.js.map",
     "453.57bea169.chunk.js.map": "/naver-landingpage/static/js/453.57bea169.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bcfcf14.css",
-    "static/js/main.29c32895.js"
+    "static/css/main.b8486272.css",
+    "static/js/main.f27c098a.js"
   ]
 }
